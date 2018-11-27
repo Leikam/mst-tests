@@ -1,0 +1,17 @@
+{
+    "name": "mobx-workshop-exercise-4",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "scripts": {
+        "start": "parcel index.html --open",
+        "build": "parcel build index.html"
+    },
+    "dependencies": {
+        "mobx-state-tree": "2.0.3"
+    },
+    "devDependencies": {
+        "parcel-bundler": "^1.6.1"
+    },
+    "keywords": []
+}
